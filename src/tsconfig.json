@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictPropertyInitialization": true,
+    "strictBindCallApply": true,
+    "noImplicitThis": true,
+    "noImplicitReturns": true,
+    "useDefineForClassFields": false,
+    "alwaysStrict": true,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "downlevelIteration": false,
+    "noEmitHelpers": false,
+    "noLib": false,
+    "noStrictGenericChecks": false,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "esModuleInterop": true,
+    "preserveConstEnums": false,
+    "removeComments": false,
+    "skipLibCheck": false,
+    "checkJs": false,
+    "allowJs": false,
+    "declaration": true,
+    "experimentalDecorators": false,
+    "emitDecoratorMetadata": false,
+    "target": "ES2017",
+    "module": "ESNext"
+  }
+}
