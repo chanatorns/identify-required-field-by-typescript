@@ -1,7 +1,7 @@
 {
   "version": "0.0.0",
-  "name": "typescript-playground-export",
-  "description": "TypeScript playground exported Sandbox",
+  "name": "identify-required-field-by-typescript",
+  "description": "",
   "dependencies": {
     "typescript": "3.7.2"
   },
@@ -13,5 +13,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "keywords": []
 }
